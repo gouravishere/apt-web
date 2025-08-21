@@ -1,0 +1,11 @@
+version: '3.4'
+services:
+    apt-web:
+        image: apt-web
+        build:
+            context: .
+            dockerfile: ./Dockerfile
+        container_name: apt-web
+        restart: always
+        ports:
+            - 3444:3000

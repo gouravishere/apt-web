@@ -1,0 +1,62 @@
+[
+  {
+    "title": "How do I create an account to log in?",
+    "desc": "You can create an account by clicking on the \"Sign Up\" or \"Register\" button on the login page and filing out the required details, such as your name, email, and password."
+  },
+  {
+    "title": "What should I do if I forget my password?",
+    "desc": "Click on the \"Forgot Password\" link on the login page and follow the instructions to reset your password. You may need access to your registered email or phone number."
+  },
+  {
+    "title": "Can I log in using my social media accounts?",
+    "desc": "Yes, if the option is available, you can log in using platforms like Google, Facebook, or LinkedIn. Click on the respective icon on the login page."
+  },
+  {
+    "title": "What are the requirements for my login password?",
+    "desc": "Passwords should typically have a minimum of 8 characters, including at least one uppercase letter, one lowercase letter, one number, and one special character."
+  },
+  {
+    "title": "Why am I unable to log in even with the correct credentials?",
+    "desc": "Ensure your internet connection is stable, check if your account is active, and verify that caps lock is off. If the issue persists, contact customer support."
+  },
+  {
+    "title": "How do I log out of my account?",
+    "desc": "Navigate to your account dashboard or profile and click on the \"Log Out\" or \"Sign Out\" option, usually located in the menu."
+  },
+  {
+    "title": "Can I use the same login credentials on multiple devices?",
+    "desc": "Yes, you can use your account on multiple devices, but simultaneous logins may be restricted based on security policies."
+  },
+  {
+    "title": "Is my login information secure?",
+    "desc": "Yes, we use advanced encryption and secure authentication protocols to ensure your login information is protected."
+  },
+  {
+    "title": "Can I change my login email or phone number?",
+    "desc": "Yes, you can update your login details through the \"Account Settings\" or \"Profile\" section after logging in."
+  },
+  {
+    "title": "How do I enable two-factor authentication for my login?",
+    "desc": "Go to \"Security Settings\" in your account and enable two-factor authentication. You may need to link a mobile number or authentication app."
+  },
+  {
+    "title": "What should I do if my account is locked?",
+    "desc": "If your account is locked due to multiple failed login attempts, follow the instructions on the lockout page or contact support for assistance."
+  },
+  {
+    "title": "Can I log in using a mobile app?",
+    "desc": "Yes, if a mobile app is available, you can log in using the same credentials as the web platform."
+  },
+  {
+    "title": "Why does my login session expire automatically?",
+    "desc": "For security reasons, sessions may expire after a period of inactivity. Simply log in again to continue."
+  },
+  {
+    "title": "How do I delete my account or login credentials?",
+    "desc": "You can request account deletion by navigating to \"Account Settings\" or contacting customer support for assistance."
+  },
+  {
+    "title": "What should I do if I suspect unauthorized login attempts?",
+    "desc": "Immediately change your password and enable two-factor authentication. Contact customer support to review recent activity on your account."
+  }
+]

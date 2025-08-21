@@ -1,0 +1,62 @@
+[
+  {
+    "title": "What is GST?",
+    "desc": "GST stands for Goods and Services Tax, a single indirect tax on the supply of goods and services across India."
+  },
+  {
+    "title": "Who needs to register for GST?",
+    "desc": "Businesses with turnover exceeding ₹20 lakhs (₹10 lakhs for special category states) must register."
+  },
+  {
+    "title": "How do I register for GST?",
+    "desc": "Registration can be done online on the GST portal with required documents."
+  },
+  {
+    "title": "What are the GST rates in India?",
+    "desc": "GST rates vary from 0% to 28% depending on the goods or services."
+  },
+  {
+    "title": "When is GST filing due?",
+    "desc": "Monthly returns are usually due on the 20th of the following month, but dates may vary."
+  },
+  {
+    "title": "What is GSTR-1?",
+    "desc": "GSTR-1 is a monthly return for reporting outward supplies of goods and services."
+  },
+  {
+    "title": "Can I claim an input tax credit under GST?",
+    "desc": "Yes, provided the purchase is for business use and the supplier has filed their return."
+  },
+  {
+    "title": "What happens if I don't file GST returns on time?",
+    "desc": "Late fees, interest on tax dues, and suspension of GST registration may apply."
+  },
+  {
+    "title": "How do I pay GST online?",
+    "desc": "GST can be paid through the GST portal using net banking, credit/debit cards, or UPI."
+  },
+  {
+    "title": "Can GST returns be revised?",
+    "desc": "No, GST returns cannot be revised once filed, but corrections can be made in subsequent returns."
+  },
+  {
+    "title": "What is GST composition scheme?",
+    "desc": "A simplified tax scheme for small businesses with a turnover of up to ₹1.5 crore."
+  },
+  {
+    "title": "Is GST applicable on exports of goods and services?",
+    "desc": "Exports are generally zero-rated under GST."
+  },
+  {
+    "title": "Do I need separate GST registrations for multiple business locations?",
+    "desc": "Yes, separate registrations are required for each state where your business operates."
+  },
+  {
+    "title": "What is e-invoicing under GST?",
+    "desc": "It is the generation of electronic invoices for businesses with turnover above a specified limit."
+  },
+  {
+    "title": "How do I track the status of my GST refund?",
+    "desc": "GST refund status can be tracked on the GST portal using the ARN (Application Reference Number)."
+  }
+]

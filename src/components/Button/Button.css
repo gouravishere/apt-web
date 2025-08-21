@@ -1,0 +1,36 @@
+.button-animation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.button-animation ul li {
+    border-radius: 0.5em; 
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: 0.1s;
+}
+
+.button-animation ul li span {
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    transform: translateY(150%);
+    border-radius: 50%;
+    left: 0%;
+    transition: 0.2s;
+    transition-delay: 0ms;
+    z-index: -1;
+}
+
+.button-animation ul li:hover span {
+    transform: translateY(0) scale(2);
+    width: 100%;
+}
+
+.button-animation ul li span:nth-child(1) {
+    --n: 1;
+}

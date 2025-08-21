@@ -1,0 +1,67 @@
+.initechNode {
+  border: solid 1px gainsboro;
+  border-radius: 10px;
+  padding: 5px;
+  width: 100px;
+  display: inline-block;
+}
+
+#initechOrgChart .orgNodeChildGroup .nodeGroupLineVerticalMiddle {
+  border-right: solid 1px gainsboro;
+}
+
+#initechOrgChart .nodeLineBorderTop {
+  border-top: solid 1px gainsboro;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 35px;
+  height: 35px;
+  border-radius: 50% !important;
+  margin: auto;
+}
+
+/* TO USE TOOLTIP */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; */
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  font-size: 12px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 95%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+/* .rasta-stripes{
+  background: #000 !important;
+} */
+
+.react-datepicker__month-text .react-datepicker__month-8{
+  height: 40px !important;
+}
+
+.react-datepicker__month-text .react-datepicker__month-1 .react-datepicker__month-text--keyboard-selected{
+  height: 50px !important;
+}
